@@ -2,7 +2,7 @@ name: Continuous Integration
 
 on:
   push:
-    branches: [main]
+    branches: [main, feature1]
 
 jobs:
   check-file:
